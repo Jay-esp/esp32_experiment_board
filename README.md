@@ -13,3 +13,7 @@ Designed in Kicad 8, all files including gerber and drill files are in the ZIP f
 
 
 ![IMG_3423](https://github.com/Jay-esp/esp32_experiment_board/assets/58309071/0df8eb66-bf1b-4426-986c-427c7d7fdd2a)
+
+![IMG_3424](https://github.com/Jay-esp/esp32_experiment_board/assets/58309071/439ca4a5-a4cb-4ab2-8f3a-ee35cdeeb4ee)
+
+
