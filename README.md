@@ -10,6 +10,8 @@ Islands for ground, 5V and 3.3V.<br />
 Connectors can be pin or socket.<br />
 On the sides room to hook up modules, 1 connection per module pin.<br />
 Designed in Kicad 8, all files including gerber and drill files are in the ZIP file.<br />
+Make sure you have the correct ESP32 because all GND pins are tied together.<br />
+PDF's contain both layers for those who want to do toner transfer.<br />
 
 
 ![IMG_3423](https://github.com/Jay-esp/esp32_experiment_board/assets/58309071/0df8eb66-bf1b-4426-986c-427c7d7fdd2a)
